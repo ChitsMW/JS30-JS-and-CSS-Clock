@@ -1,5 +1,13 @@
-## Still To Do:
-I need to work on refining the timer, and connect the database to the frontend to have each session recorded in the session history table.
-I would like to add more features to the app like bottle feedings and daily diaper changes. I would also like to deploy as a real website
-## Check it out:
-www.chitsintech.com
+#  CSS Clock
+
+## Purpose:
+Using JavaScript to make a CSS clock. 
+## Tech Stack:
+JavaScript, CSS
+## Team:
+Solo
+## Description:
+The clock takes in the current time from JavaScript and updates the clock hands based on the actual time.
+## Fun Fact:
+It didn't work so I haver to go back to fix it.
+
